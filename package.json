@@ -5,6 +5,14 @@
   "version": "0.3.6",
   "publisher": "sigroute",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zh89468y/sigroute.git"
+  },
+  "homepage": "https://github.com/zh89468y/sigroute#readme",
+  "bugs": {
+    "url": "https://github.com/zh89468y/sigroute/issues"
+  },
   "icon": "icon.png",
   "galleryBanner": {
     "color": "#151a24",
