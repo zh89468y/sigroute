@@ -1,0 +1,4 @@
+{
+  "//": "仅用于让 Node 24 原生 type-stripping 把 src 下的 .ts 当作 ESM 直接运行（tools/verify.mjs）。tsc 编译时忽略此文件。",
+  "type": "module"
+}

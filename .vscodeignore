@@ -1,0 +1,15 @@
+.vscode/**
+.vscode-test/**
+src/**
+node_modules/**
+**/*.map
+tsconfig.json
+.gitignore
+tools/*
+!tools/ai.mjs
+!tools/mcp.mjs
+dist/**
+package-lock.json
+**/*.vsix
+**/*.zip
+PUBLISHING.md
